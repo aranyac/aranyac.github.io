@@ -23,6 +23,7 @@ title: ""
 
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
 * “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
+* “Weather Shocks, Experience, and Household Choices.” (with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/))
 
 # Book Chapter
 
