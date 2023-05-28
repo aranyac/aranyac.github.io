@@ -2,6 +2,8 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+$max-width:1440px;
+
 #main {
   @include container;
   @include clearfix;
