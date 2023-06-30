@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Aranya Chakraborty"
 title_separator          : "-"
 name                     : &name "Aranya Chakraborty"
-description              : &description "PhD Candidate, Department of Economics, McGill University"
+description              : &description "Assistant Professor, Amrut Mody School of Management, Ahmedabad University"
 url                      : https://aranyac.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aranyac/aranyac.github.io"
@@ -78,8 +78,8 @@ social:
 author:
   name             : "Aranya Chakraborty"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate"
-  location         : "Montreal, QC, Canada"
+  bio              : "Assistant Professor"
+  location         : "Ahmedabad, India"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=auaykTcAAAAJ&authuser=1"
