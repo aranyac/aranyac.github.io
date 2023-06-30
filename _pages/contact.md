@@ -22,7 +22,7 @@ title: ""
   
 ## Mailing Address  
 Room M 315  
-School of Arts and Sciences 
-Ahmedabad University, Central Campus
-Navrangpura, Ahmedabad 380009
+School of Arts and Sciences  
+Ahmedabad University, Central Campus  
+Navrangpura, Ahmedabad 380009  
 Gujarat, India
