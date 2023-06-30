@@ -14,13 +14,15 @@ title: ""
 </script>
 
 
-**Email:** [aranya.chakraborty@mail.mcgill.ca](mailto:aranya.chakraborty@mail.mcgill.ca)/ [aranyacecon@gmail.com](mailto:aranyacecon@gmail.com)  
+**Email:** [aranya.chakraborty@ahduni.edu.in](mailto:aranya.chakraborty@ahduni.edu.in)/ [aranyacecon@gmail.com](mailto:aranyacecon@gmail.com)  
 <!-- aranya.chakraborty@mail.mcgill.ca / aranyacecon@gmail.com    -->
 <!-- **Twitter:** [@aranyacecon](https://twitter.com/aranyacecon) -->
 <!-- @aranyacecon   -->
-**Phone:** +1-514-699-9655   
+**Phone:** +91.79.61911570   
   
 ## Mailing Address  
-Leacock Building, Room 414  
-855 Sherbrooke Street West  
-Montreal, QC, Canada H3A 2T7
+Room M 315  
+School of Arts and Sciences 
+Ahmedabad University, Central Campus
+Navrangpura, Ahmedabad 380009
+Gujarat, India
