@@ -21,7 +21,7 @@ title: ""
 **Phone:** +91.79.61911570   
   
 ## Mailing Address  
-Room M 315  
+M 315, Third Mezzanine Floor  
 School of Arts and Sciences  
 Ahmedabad University, Central Campus  
 Navrangpura, Ahmedabad 380009  
