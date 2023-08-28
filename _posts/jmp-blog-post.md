@@ -23,8 +23,9 @@ Social learning when benefits are heterogeneous
 
 Consider a farmer trying to decide whether to adopt the new seed variety. She would require information on the effectiveness of this seed variety and seeks such information from her existing social connections. If everyone in the population is homogeneous in the information they need, the farmer would have no problem obtaining the information once some (or all) of her connections are informed. However, this would be different if people vary in the information they require. If agents that are connected share the same attributes, and the benefits from the new seed depend on those attributes, then agents can still learn from their connections in such assortative networks.
 We can see this in Figure 1A. The colors of this figure represent the benefits of some technology: red being high benefits, blue being low benefits, and yellow being average benefits. The arrows represent the network links. The links are assortative: agents are more likely to be connected to other agents with similar benefits from the technology. In such networks, informed agents can aid their uninformed connections in making the right decision as they share similar benefits. However, the extent to which this is the case depends crucially on the extent of heterogeneity in the population.
+
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/aranyac/aranyac.github.io/blob/master/images/jmp_figure1A.jpg)" />
+  <img src="http://some_place.com/image.png](https://github.com/aranyac/aranyac.github.io/blob/master/images/jmp_figure1A.jpg?raw=true" alt="Figure 1A: Assortative Networks with Heterogeneous Benefits"/>
 </p>
 
 
