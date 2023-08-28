@@ -1,7 +1,7 @@
 ---
 title: 'Using Social Ties to Improve Technology Adoption: Does Heterogeneity Matter?'
 date: 2022-08-28
-permalink: /posts/jmp-blog-post/
+permalink: /posts/2023/08/jmp-blog-post/
 tags:
   - Targeting
   - Social Network
