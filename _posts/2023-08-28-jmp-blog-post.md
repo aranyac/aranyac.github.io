@@ -9,10 +9,6 @@ tags:
   - Agriculture
 ---
 
-
-Using Social Ties to Improve Technology Adoption: Does Heterogeneity Matter?
-=======
-
 The adoption of modern technologies is generally low in developing countries. The literature has shown that information frictions are one of the key reasons behind such a phenomenon (Magruder, 2018; Mobarak and Saldanha, 2022) and that social ties can help by diffusing the information required to improve adoption. The core idea is to provide the necessary information to only a subset of the population (termed seeds) and reach most people through network connections. In doing this, it is crucial to choose the initial seeds in the right way. Beaman et al. (2021) show that, given a specific, threshold-based characterization of the information diffusion process, we need to seed the most well-connected agents in a network. This result relies on the assumption that the diffusion of information depends on the number of links and position of each agent within the network. But, what if heterogeneity in other characteristics also affects the diffusion process?
 In my job market paper, I investigate the role of population heterogeneity in benefits from a technology for the diffusion of information regarding that same technology. To understand why population heterogeneity in its benefits may matter, consider for example the agricultural sector. Farmers are different from one another in education levels, skills, and abilities. Their farms also differ in land quality, size of the operation, access to irrigation, etc. I claim that this heterogeneity translates into heterogeneous benefits from any given technology. I show that such heterogeneity may affect the effectiveness of network-based interventions designed to improve technology adoption. I develop a network-based theoretical framework of information diffusion with heterogeneous agents and validate the predictions of my model using experimental data from Malawi.
 
