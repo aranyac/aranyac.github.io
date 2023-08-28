@@ -1,6 +1,6 @@
 ---
 title: 'Using Social Ties to Improve Technology Adoption: Does Heterogeneity Matter?'
-date: 2022-08-22
+date: 2022-08-28
 permalink: /posts/jmp-blog-post/
 tags:
   - Targeting
@@ -8,6 +8,8 @@ tags:
   - Technology Adoption
   - Agriculture
 ---
+
+
 Using Social Ties to Improve Technology Adoption: Does Heterogeneity Matter?
 =======
 
