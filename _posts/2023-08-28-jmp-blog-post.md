@@ -22,9 +22,8 @@ Social learning when benefits are heterogeneous
 Consider a farmer trying to decide whether to adopt the new seed variety. She would require information on the effectiveness of this seed variety and seeks such information from her existing social connections. If everyone in the population is homogeneous in the information they need, the farmer would have no problem obtaining the information once some (or all) of her connections are informed. However, this would be different if people vary in the information they require. If agents that are connected share the same attributes, and the benefits from the new seed depend on those attributes, then agents can still learn from their connections in such assortative networks.  
 We can see this in Figure 1A. The colors of this figure represent the benefits of some technology: red being high benefits, blue being low benefits, and yellow being average benefits. The arrows represent the network links. The links are assortative: agents are more likely to be connected to other agents with similar benefits from the technology. In such networks, informed agents can aid their uninformed connections in making the right decision as they share similar benefits. However, the extent to which this is the case depends crucially on the extent of heterogeneity in the population.
 
-<p align="center">
-  <img width="600" height="600" src="https://github.com/aranyac/aranyac.github.io/blob/master/images/jmp_figure1A.jpg">
-</p>
+![jmp_figure1A](https://github.com/aranyac/aranyac.github.io/assets/92124904/c76ab93c-b3f4-4ea4-8e80-9a8ae068d819)
+
 
 
 What does it mean for network-based interventions?
@@ -39,9 +38,8 @@ I use simulations to show that centrality-based targeting fails in the diffusion
 [Beaman et al. (2021)](https://www.aeaweb.org/articles?id=10.1257/aer.20200295) use a randomized control trial (RCT) to improve the adoption of pit planting among maize farmers in 200 villages in Malawi. They selected two seed households per village following a two-stage randomization process. By the design of their experiment, the seed households vary in their centrality within their respective village networks. Additionally, I estimate the probability of adopting any new technology for the households in every village conditional on observable demographics, using data from AESTAS. These estimates help me calculate the adoption probability of seed households in the RCT and the coefficient of variation in these probabilities at the village level. I use the latter as a measure of village-level heterogeneity in benefits.  
 I test whether the impact of the seeds’ centrality and average adoption probability on the village-level adoption of pit planting changes depending on the village-level heterogeneity in benefits. Table 5 presents the main empirical results of my paper. Controlling for village-level heterogeneity in adoption probabilities, adoption increases with the centrality of the seeds and decreases with the seeds' average adoption probability. However, as heterogeneity increases, the positive effect of seeds' centrality on adoption decrease. Similarly, the negative impact of seeds' average adoption probability also decreases with an increase in village-level heterogeneity. I find weaker (but similar) results using the experimental variations in the data.  
 
-<p align="center">
-  <img width="600" height="600" src="https://github.com/aranyac/aranyac.github.io/blob/master/images/jmp_table5.jpg">
-</p>
+![jmp_table5](https://github.com/aranyac/aranyac.github.io/assets/92124904/edc3634a-bc25-422a-aacb-53177212398f)
+
 
 Conclusion
 ------
