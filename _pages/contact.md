@@ -23,6 +23,5 @@ title: ""
 ## Mailing Address  
 M 315 SAS Building  
 Ahmedabad University Gate 10  
-Commerce Six Road  
-Navrangpura, Ahmedabad 380009  
-Gujarat, India
+Commerce Six Road, Navrangpura  
+Ahmedabad 380009, Gujarat, India
