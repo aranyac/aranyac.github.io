@@ -21,8 +21,8 @@ title: ""
 **Phone:** +91.79.61911570   
   
 ## Mailing Address  
-M 315, Third Mezzanine Floor  
-School of Arts and Sciences  
-Ahmedabad University, Central Campus  
+M 315 SAS Building  
+Ahmedabad University Gate 10  
+Commerce Six Road  
 Navrangpura, Ahmedabad 380009  
 Gujarat, India
