@@ -24,8 +24,9 @@ title: ""
 # Work in Progress
 
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
-* “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
+<!--* “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/)) -->
 * “Weather Shocks, Experience, and Household Choices.” (with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/))
+* “Testing Alternative Models of Informal Risk Sharing with Data from Tsimane' Villages.” (with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0))
 
 # Book Chapter
 
