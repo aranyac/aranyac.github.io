@@ -15,7 +15,7 @@ title: ""
 
 # Working Papers
 
-* “The Role of Active Discussion in Learning about Uncertain Technologies,” December 2023. (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)) [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Slides](/files/pdf/Slides_CELW.pdf)
+* “The Role of Active Discussion in Learning about Uncertain Technologies,” December 2023. (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)) [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Slides](/files/pdf/Slides_CELW.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1734589152958788083)
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” August 2023. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Slides](/files/pdf/jmp_slides_l.pdf), [Blog Post](https://www.aranyachakraborty.com/posts/2023/08/jmp-blog-post/), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)
 <!-- * [Short Slides](/files/pdf/jmp_slides_s.pdf) -->
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya,” March 2023. [Available Upon Request] 
