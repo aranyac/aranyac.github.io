@@ -16,7 +16,7 @@ title: ""
 # Working Papers
 
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” March 2024. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Blog Post](https://www.aranyachakraborty.com/posts/2023/08/jmp-blog-post/), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)   
-<font size=7> <span style="color:red">
+<font size=2> <span style="color:red">
 **Young Scholars' Best Paper Award** by the *CITD, JNU* in the International Conference on "Recent Developments in Economic Research: Theory and Evidence."
 </font></span>
 
