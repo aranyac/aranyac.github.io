@@ -16,7 +16,7 @@ title: ""
 # Working Papers
 
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” March 2024. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Blog Post](https://www.aranyachakraborty.com/posts/2023/08/jmp-blog-post/), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)   
-<span style="font-size: 0.8em; color:#5D6770">
+<span style="font-size: 0.75em; color:red">
 **Young Scholars' Best Paper Award** by the *CITD, JNU* in the International Conference on "Recent Developments in Economic Research: Theory and Evidence."
 </span>   
 * “The Role of Active Discussion in Learning about Uncertain Technologies,” February 2024. (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)) [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1734589152958788083)
