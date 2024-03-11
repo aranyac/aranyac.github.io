@@ -30,7 +30,7 @@ title: ""
 * “Testing Alternative Models of Informal Risk Sharing with Data from Tsimane' Villages.”   
 <span style="font-size: 0.9em; color:#808080"> with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0)</span>
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.”   
-<span style="font-size: 0.9em; color:#808080"> with [Matthieu Chemin](https://www.matthieuchemin.com/))</span>
+<span style="font-size: 0.9em; color:#808080"> with [Matthieu Chemin](https://www.matthieuchemin.com/)</span>
 
 
 <!--* “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/)) -->
