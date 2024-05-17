@@ -25,7 +25,7 @@ title: ""
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>
 * “Testing Alternative Models of Informal Risk Sharing with Data from Tsimane' Villages.”   
 <span style="font-size: 0.9em; color:#808080"> with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0)</span>
-* “Misallocation of Agricultural Resources: Do Information Frictions Matter?”   
+* “Inefficiency in Agricultural Production: Do Information Frictions Matter?”   
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.”   
 <span style="font-size: 0.9em; color:#808080"> with [Matthieu Chemin](https://www.matthieuchemin.com/)</span>
