@@ -27,9 +27,10 @@ title: ""
 <span style="font-size: 0.9em; color:#808080"> with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0)</span>
 * “Inefficiency in Agricultural Production: Do Information Frictions Matter?”   
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>
-* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.”   
-<span style="font-size: 0.9em; color:#808080"> with [Matthieu Chemin](https://www.matthieuchemin.com/)</span>
 
+
+<!--* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.”   
+<span style="font-size: 0.9em; color:#808080"> with [Matthieu Chemin](https://www.matthieuchemin.com/)</span> -->
 
 <!--* “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/)) -->
 
