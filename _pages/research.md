@@ -13,6 +13,8 @@ title: ""
 </script>
 # Working Papers
 
+* “Inefficiency in Agricultural Production: Do Information Frictions Matter?” August 2024. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf)      
+<span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>   
 * “The Role of Active Discussion in Learning about Uncertain Technologies,” *Under Review*, May 2024. [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1734589152958788083)   
 <span style="font-size: 0.9em; color:#808080"> with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)</span>
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” *Under Review*, March 2024. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Blog Post](https://www.aranyachakraborty.com/posts/2023/08/jmp-blog-post/), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)     
@@ -25,8 +27,6 @@ title: ""
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>
 * “Testing Alternative Models of Informal Risk Sharing with Data from Tsimane' Villages.”   
 <span style="font-size: 0.9em; color:#808080"> with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0)</span>
-* “Inefficiency in Agricultural Production: Do Information Frictions Matter?”   
-<span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>
 
 
 <!--* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.”   
