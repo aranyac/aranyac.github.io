@@ -13,7 +13,7 @@ title: ""
 </script>
 # Working Papers
 
-* “Inefficiency in Agricultural Production: Do Information Frictions Matter?” August 2024. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf)      
+* “Inefficiency in Agricultural Production: Do Information Frictions Matter?” August 2024. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>   
 * “The Role of Active Discussion in Learning about Uncertain Technologies,” *Under Review*, May 2024. [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1734589152958788083)   
 <span style="font-size: 0.9em; color:#808080"> with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)</span>
