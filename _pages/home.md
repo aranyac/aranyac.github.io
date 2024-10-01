@@ -28,4 +28,4 @@ My [doctoral research](https://escholarship.mcgill.ca/concern/theses/kw52jf35q?l
 
 <!-- Please find my research statement [here](/files/pdf/RStatement.pdf) and my teaching statement [here](/files/pdf/TStatement.pdf). -->
 
-<a class="twitter-timeline" href="https://twitter.com/aranyacecon?ref_src=twsrc%5Etfw">Tweets by aranyacecon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <a class="twitter-timeline" href="https://twitter.com/aranyacecon?ref_src=twsrc%5Etfw">Tweets by aranyacecon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
