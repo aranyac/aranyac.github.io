@@ -13,6 +13,8 @@ title: ""
 </script>
 # Working Papers
 
+* “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders,” October 2024. [Available Upon Request]   
+<span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>
 * “Inefficiency in Agricultural Production: Do Information Frictions Matter?” September 2024. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>   
 * “The Role of Active Discussion in Learning about Uncertain Technologies,” May 2024. [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1734589152958788083)   
@@ -23,8 +25,6 @@ title: ""
 
 # Work in Progress
 
-* “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders.”   
-<span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>
 * “Testing Alternative Models of Informal Risk Sharing with Data from Tsimane' Villages.”   
 <span style="font-size: 0.9em; color:#808080"> with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0)</span>
 
@@ -42,7 +42,7 @@ title: ""
 
 # Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data,” August 2016.[Available Upon Request]   
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data,” August 2016. [Available Upon Request]   
 <span style="font-size: 0.9em; color:#808080"> with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee </span>
 
 <!-- * [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf) -->
