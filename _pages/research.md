@@ -17,11 +17,11 @@ title: ""
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>
 * “The Role of Active Discussion in Learning about Uncertain Technologies,” October 2024. [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1734589152958788083)     
 <span style="font-size: 0.9em; color:#808080"> with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)</span>   
-<span style="font-size: 0.95em; color:#373737"> Under Review </span> 
+<span style="font-size: 0.95em; color:#708090"> Under Review </span> 
 * “Inefficiency in Agricultural Production: Do Information Frictions Matter?” September 2024. [Working Paper](https://www.ashoka.edu.in/research/inefficiency-in-agricultural-production-do-information-frictions-matter/), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>   
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” March 2024. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Blog Post](https://www.aranyachakraborty.com/posts/2023/08/jmp-blog-post/), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)   
-<span style="font-size: 0.95em; color:#373737"> Revision Requested at the *Journal of Development Economics* </span>     
+<span style="font-size: 0.95em; color:#708090"> Revision Requested at the *Journal of Development Economics* </span>     
   * <span style="font-size: 0.9em; color:#808080">Winner of the **Young Scholars' Best Paper Award** at the [International Conference](https://www.jnu.ac.in/node/159896311) hosted by the Centre for International Trade and Development, Jawaharlal Nehru University.</span>   
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya,” March 2023. [Working Paper](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
 
