@@ -13,7 +13,7 @@ title: ""
 </script>
 # Working Papers
 
-* “Inefficiency in Agricultural Production: Do Information Frictions Matter?” February 2025. [Latest Version Available Upon Request] [Ashoka Economics Discussion Paper](https://www.ashoka.edu.in/research/inefficiency-in-agricultural-production-do-information-frictions-matter/), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
+* “Inefficiency in Agricultural Production: Do Information Frictions Matter?” March 2025. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [Ashoka Economics Discussion Paper](https://www.ashoka.edu.in/research/inefficiency-in-agricultural-production-do-information-frictions-matter/), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span> 
 * “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders,” November 2024. [RSC Working Paper](https://cadmus.eui.eu/handle/1814/77583)     
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>
