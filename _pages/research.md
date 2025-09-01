@@ -15,7 +15,6 @@ title: ""
 
 * “Inefficiency in Agricultural Production: Do Information Frictions Matter?” June 2025. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [Ashoka Economics Discussion Paper](https://www.ashoka.edu.in/research/inefficiency-in-agricultural-production-do-information-frictions-matter/), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>   
-<span style="font-size: 0.95em; color:#708090"> Under Review </span>  
 * “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders,” November 2024. [RSC Working Paper](https://cadmus.eui.eu/handle/1814/77583)     
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>
 * “The Role of Active Discussion in Learning about Uncertain Technologies,” October 2024. [Working Paper](/files/pdf/The Role of Active Discussion in Learning about Uncertain Technologies.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1734589152958788083)     
@@ -25,9 +24,11 @@ title: ""
   * <span style="font-size: 0.9em; color:#808080">Winner of the **Young Scholars' Best Paper Award** at the [International Conference](https://www.jnu.ac.in/node/159896311) hosted by the Centre for International Trade and Development, Jawaharlal Nehru University.</span>   
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya,” March 2023. [Working Paper](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
 
+<!--* <span style="font-size: 0.95em; color:#708090"> Under Review </span> -->  
+
 # Work in Progress
 
-* “Testing Alternative Models of Informal Risk Sharing with Data from Tsimane' Villages.”   
+* “Food Transfers in a Primitive Economy: Comparing Three Models of Risk-Sharing in Networks.”   
 <span style="font-size: 0.9em; color:#808080"> with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0)</span>
 
 
