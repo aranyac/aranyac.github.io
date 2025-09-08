@@ -14,7 +14,7 @@ title: ""
 # Working Papers
 
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” September 2025. [Old WP Version](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)   
-<span style="font-size: 0.95em; color:#708090"> Revised and Resubmitted at the *Journal of Development Economics* </span>   
+<span style="font-size: 0.95em; color:#708090"> Revised and Resubmitted to the *Journal of Development Economics* </span>   
 * “Inefficiency in Agricultural Production: Do Information Frictions Matter?” June 2025. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [Ashoka Economics Discussion Paper](https://www.ashoka.edu.in/research/inefficiency-in-agricultural-production-do-information-frictions-matter/), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>   
 * “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders,” November 2024. [RSC Working Paper](https://cadmus.eui.eu/handle/1814/77583)     
