@@ -13,9 +13,9 @@ title: ""
 </script>
 # Working Papers
 * “Experience, Learning, and Product Design: Evidence from Index Insurance in Kenya,” January 2026. [Working Paper](https://dx.doi.org/10.2139/ssrn.4254514)   
-<span style="font-size: 0.95em; color:#708090"> (formerly "The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya") </span>
+<span style="font-size: 0.95em; color:#707b90"> (formerly "The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya") </span>
 * “The Role of Active Discussion in Coordinating about Uncertain Technologies,” January 2026. [Working Paper](/files/pdf/CELW2026_revised.pdf)   
-<span style="font-size: 0.95em; color:#708090"> (formerly "The Role of Active Discussion in Learning about Uncertain Technologies") </span>        
+<span style="font-size: 0.95em; color:#707b90"> (formerly "The Role of Active Discussion in Learning about Uncertain Technologies") </span>        
 <span style="font-size: 0.9em; color:#808080"> with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)</span>  
 * “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders,” November 2025. [Working Paper](/files/pdf/CMS_2025.pdf)   
 <span style="font-size: 0.95em; color:#708090"> Under Review </span>   
