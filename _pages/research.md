@@ -21,7 +21,7 @@ title: ""
 <span style="font-size: 0.95em; color:#708090"> Under Review </span>   
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>   
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” September 2025. [Old WP Version](https://dx.doi.org/10.2139/ssrn.4792846), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)    
-<span style="font-size: 0.95em; color:#708090"> Revised and Resubmitted to the *Journal of Development Economics* </span>   
+<span style="font-size: 0.95em; color:#708090"> Revise and Resubmit (2nd round) invited at the *Journal of Development Economics* </span>   
   * <span style="font-size: 0.9em; color:#808080">Winner of the **Young Scholars' Best Paper Award** at the [International Conference](https://www.jnu.ac.in/node/159896311) hosted by the Centre for International Trade and Development, Jawaharlal Nehru University.</span>      
 * “Inefficiency in Agricultural Production: Do Information Frictions Matter?” June 2025. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>        
