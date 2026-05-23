@@ -15,6 +15,12 @@ title: ""
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” May 2026. [Working Paper](https://dx.doi.org/10.2139/ssrn.4792846), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)    
 <span style="font-size: 0.95em; color:#708090"> Revised and Resubmitted (2nd round) to the *Journal of Development Economics* </span>   
   * <span style="font-size: 0.9em; color:#808080">Winner of the **Young Scholars' Best Paper Award** at the [International Conference](https://www.jnu.ac.in/node/159896311) hosted by the Centre for International Trade and Development, Jawaharlal Nehru University.</span>  
+<details>
+<summary>Abstract</summary>
+Can we use social ties to improve information diffusion when agents differ in potential gains? This study investigates network‐based interventions that aim to improve the adoption of agricultural technologies when expected benefits are heterogeneous. I develop a two-stage learning model in which uninformed agents rely on their neighbors to decide whether to conduct costly experimentation to become informed and then whether to adopt once informed. Simulations reveal that when technology benefits vary widely, targeting highly central households can be less efficient than targeting randomly, particularly when experimentation costs are low. In contrast, targeting high-benefit households maximizes diffusion in highly heterogeneous environments. To validate these findings, I combine experimental and observational data from Malawi. By evaluating the marginal returns to continuous variations in targeted household characteristics, the empirical analysis supports the simulations' joint directional predictions. These findings underscore the need to consider both network structure and benefit heterogeneity when designing network‐based targeting policies to promote new technologies.
+</details>
+
+---   
 * “The Role of Active Discussion in Coordinating about Uncertain Technologies,” February 2026. [Working Paper](/files/pdf/CELW2026_revised.pdf)   
 <span style="font-size: 0.95em; color:#708090"> Under Review </span>        
 <span style="font-size: 0.9em; color:#808080"> with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)</span>  
