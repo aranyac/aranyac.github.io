@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ahmedabad University
 
-**FYS124 – Connected Choices: How Networks Shape Our Decisions**
+**FYS124 – Connected Choices: How Networks Shape Our Decisions**   
 First-Year Interdisciplinary Seminar | Winter 2026
 
 An interdisciplinary seminar investigating how social, institutional, and informational networks shape individual and collective choices, drawing on economics, sociology, data
@@ -15,7 +15,7 @@ science, and computer science. Emphasis on close reading, case-based discussion,
 
 ---
 
-**ECO321/ECO620 – Empirical Research Methods in Economics**
+**ECO321/ECO620 – Empirical Research Methods in Economics**   
 Undergraduate (ECO321) / Postgraduate (ECO620) | Monsoon 2025, Winter 2025, Winter 2024
 
 A jointly-offered course training students in the causal inference methods at the core of modern applied microeconomics — randomized controlled trials, difference-in-differences,
@@ -24,7 +24,7 @@ applications span development, health, education, labor, environment, and financ
 
 ---
 
-**ECO220 – Econometrics**
+**ECO220 – Econometrics**   
 Undergraduate | Monsoon 2025, Monsoon 2024
 
 An intermediate course covering the statistical foundations of empirical economics, including ordinary least squares, the classical linear model, hypothesis testing, and
@@ -32,7 +32,7 @@ violations of classical assumptions. Assessments combine theoretical derivation 
 
 ---
 
-**ECO100 – Microeconomics**
+**ECO100 – Microeconomics**   
 Undergraduate | Bi-Semester 2024–25, Bi-Semester 2023–24
 
 A large introductory course required across multiple undergraduate programs, covering supply and demand, consumer choice, producer theory, and market structures. Emphasis
