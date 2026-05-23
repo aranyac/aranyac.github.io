@@ -61,7 +61,10 @@ In settings with variable local geographic conditions, the impact of interventio
 
 * “Food Transfers in a Primitive Economy: Comparing Three Models of Risk-Sharing in Networks.”   
 <span style="font-size: 0.9em; color:#808080"> with [Francesco Amodio](https://sites.google.com/site/fscoamodio/home) and [Pau Milán](https://sites.google.com/site/paumilan/home?authuser=0)</span>
-
+<details style="margin-left: 1.5em;">
+<summary>Details</summary>
+We compare the empirical predictions of three models of risk-sharing — altruism, capacity constraints, and local information frictions — using food transfer data from an indigenous population in the Bolivian Amazon.
+</details>
 
 <!--* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.”   
 <span style="font-size: 0.9em; color:#808080"> with [Matthieu Chemin](https://www.matthieuchemin.com/)</span> -->
