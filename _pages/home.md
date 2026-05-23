@@ -18,16 +18,15 @@ redirect_from:
   gtag('config', 'G-XQNNHHYQ5D');
 </script>
 
-Welcome to my website!
 
-I am an Assistant Professor of Economics and Public Policy at the [Amrut Mody School of Management](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/) at [Ahmedabad University](https://ahduni.edu.in/). I received my PhD in Economics from [McGill University](https://www.mcgill.ca/economics/) in 2023. 
+I am an Assistant Professor of Economics and Public Policy at the [Amrut Mody School of Management](https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/) at [Ahmedabad University](https://ahduni.edu.in/). I received my PhD in Economics from [McGill University](https://www.mcgill.ca/economics/)
+in 2023.
 
-My research interests lie in the areas of Development Economics, Information Economics, and Applied Microeconomics. More specifically, I study the adoption of risk management and mitigation practices in developing countries, focusing primarily on the role of networks, social learning, and learning from experience.
+My research lies at the intersection of development economics, information economics, and applied microeconomics. I study how information frictions shape the adoption of risk management tools — including agricultural technologies and insurance products — in developing countries. My work is organized around two mechanisms:
+how networks and social learning determine whether and how information about new technologies diffuses and translates into adoption decisions, and how learning from personal experience shapes farmers' demand for and take-up of risk management practices. Ongoing work extends this agenda to informal risk-sharing in network settings, and more broadly to how information, networks, and incentives shape behavior beyond agricultural contexts.
 
 Click [here](/files/pdf/Curriculum Vitae.pdf) for my CV.   
-**Email:** [aranya.chakraborty@ahduni.edu.in](mailto:aranya.chakraborty@ahduni.edu.in) or [aranyacecon@gmail.com](mailto:aranyacecon@gmail.com)   
-
-<!-- My [doctoral research](https://escholarship.mcgill.ca/concern/theses/kw52jf35q?locale=en) focuses on analyzing the role played by information friction in driving technology adoption decisions. I investigate development policies for resolving these frictions and aiding economic agents in developing countries to learn about new technologies and products. In my [job market paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), I explore network-based targeting for improving the adoption of technologies having heterogeneous benefits in a population. To do so, I theoretically model information diffusion in a network with heterogeneous agents, use simulations to generate testable predictions from the model, and validate them using experimental data from Malawi. My other related chapters address the role of experience in learning about index insurance products for farmers in Kenya and explore the effect of active discussion in learning about uncertain technologies for Peruvian potato farmers. -->
+**Email:** <aranyacecon@gmail.com>
 
 <!-- My research interests are in the areas of Development Economics, Information Economics, and Applied Microeconomics. -->
 
