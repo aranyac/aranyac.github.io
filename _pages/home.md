@@ -26,7 +26,7 @@ My research lies at the intersection of development economics, information econo
 how networks and social learning determine whether and how information about new technologies diffuses and translates into adoption decisions, and how learning from personal experience shapes farmers' demand for and take-up of risk management practices. Ongoing work extends this agenda to informal risk-sharing in network settings, and more broadly to how information, networks, and incentives shape behavior beyond agricultural contexts.
 
 Click [here](/files/pdf/Curriculum Vitae.pdf) for my CV.   
-**Email:** <aranyacecon@gmail.com>
+**Email:** <aranya.chakraborty@ahduni.edu.in> or <aranyacecon@gmail.com>
 
 <!-- My research interests are in the areas of Development Economics, Information Economics, and Applied Microeconomics. -->
 
