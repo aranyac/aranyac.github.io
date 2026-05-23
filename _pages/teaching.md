@@ -42,12 +42,12 @@ on grounding abstract concepts in real-world applications.
 
 ## McGill University *(Teaching Assistant)*
 
-- ECON 313 – Economic Development 1 | Winter 2021, 2022, 2023; Fall 2021
-- ECON 314 – Economic Development 2 | Winter 2020, 2022
-- ECON 473 – Income Distribution | Winter 2021; Fall 2021
-- ECON 416 – Topics in Economic Development 2 | Winter 2021
-- ECON 306 – Labor Markets and Wages | Fall 2022
-- ECON 310 – Introduction to Behavioural Economics | Fall 2017, 2020
-- ECON 305 – Industrial Organization | Fall 2019
-- ECON 230D1 – Microeconomic Theory | Fall 2018
-- ECON 227D2 – Economic Statistics | Winter 2018
+- ECON 313 – Economic Development 1, Winter 2021, 2022, 2023; Fall 2021
+- ECON 314 – Economic Development 2, Winter 2020, 2022
+- ECON 473 – Income Distribution, Winter 2021; Fall 2021
+- ECON 416 – Topics in Economic Development 2, Winter 2021
+- ECON 306 – Labor Markets and Wages, Fall 2022
+- ECON 310 – Introduction to Behavioural Economics, Fall 2017, 2020
+- ECON 305 – Industrial Organization, Fall 2019
+- ECON 230D1 – Microeconomic Theory, Fall 2018
+- ECON 227D2 – Economic Statistics, Winter 2018
