@@ -66,6 +66,7 @@ In settings with variable local geographic conditions, the impact of interventio
 We compare the empirical predictions of three models of risk-sharing — altruism, capacity constraints, and local information frictions — using food transfer data from an indigenous population in the Bolivian Amazon.
 </details>
 
+---   
 <!--* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.”   
 <span style="font-size: 0.9em; color:#808080"> with [Matthieu Chemin](https://www.matthieuchemin.com/)</span> -->
 
@@ -77,11 +78,13 @@ We compare the empirical predictions of three models of risk-sharing — altruis
 <span style="font-size: 0.9em; color:#808080"> with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee   
 (published as *Chapter 10* in **Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security**, Sharma and Bathla (eds.), CWS in association with Bookwell, Delhi, 2017, 177-194.) </span>
 
+---   
 # Other Papers
 
 * “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data,” August 2016. [Available Upon Request]   
 <span style="font-size: 0.9em; color:#808080"> with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee </span>
 
+---   
 <!-- * [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf) -->
 
 # Media/Posts
