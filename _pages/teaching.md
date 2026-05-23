@@ -12,8 +12,7 @@ permalink: /teaching/
 
   gtag('config', 'G-XQNNHHYQ5D');
 </script>
-
-## Ahmedabad University
+# Ahmedabad University
 
 **FYS124 – Connected Choices: How Networks Shape Our Decisions**   
 First-Year Interdisciplinary Seminar | Winter 2026
@@ -48,7 +47,7 @@ on grounding abstract concepts in real-world applications.
 
 ---
 
-## McGill University *(Teaching Assistant)*
+# McGill University *(Teaching Assistant)*
 
 - ECON 313 – Economic Development 1, Winter 2021, 2022, 2023; Fall 2021
 - ECON 314 – Economic Development 2, Winter 2020, 2022
