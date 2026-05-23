@@ -12,7 +12,7 @@ title: ""
   gtag('config', 'G-XQNNHHYQ5D');
 </script>
 # Working Papers
-* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” May 2026. [Working Paper](https://dx.doi.org/10.2139/ssrn.4792846), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)    
+* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” May 2026. [Working Paper](https://dx.doi.org/10.2139/ssrn.4792846), [X Thread](https://twitter.com/aranyacecon/status/1595069831648317440)    
 <span style="font-size: 0.95em; color:#708090"> Revised and Resubmitted (2nd round) to the *Journal of Development Economics* </span>   
   * <span style="font-size: 0.9em; color:#808080">Winner of the **Young Scholars' Best Paper Award** at the [International Conference](https://www.jnu.ac.in/node/159896311) hosted by the Centre for International Trade and Development, Jawaharlal Nehru University.</span>  
 <details style="margin-left: 1.5em;">
@@ -31,11 +31,29 @@ The decision to adopt one technology versus another depends on how uncertain the
 
 --- 
 * “Learning from Experience about Product Design: Evidence from Index Insurance in Kenya,” February 2026. [Working Paper](https://dx.doi.org/10.2139/ssrn.4254514)   
+<details style="margin-left: 1.5em;">
+<summary>Abstract</summary>
+This paper studies how experience shapes learning and demand for index insurance products. I develop a theoretical framework that distinguishes between learning about the underlying risk environment and learning about the index insurance product's design quality, highlighting the potential for payouts to rationally reduce demand by serving as an information signal that corrects optimistic priors about the product's design. I test these predictions with data from the Index-Based Livestock Insurance (IBLI) pilot in Kenya. Using the random distribution of price subsidies and the exogenous timing of payouts, I causally identify that receiving a payout significantly reduces the responsiveness of demand to discounts on the extensive margin, with no differential effect of the disaster experience. Further analysis suggests that payouts serve as an information signal that corrects optimistic priors about the product's design quality, consistent with the theoretical framework's predictions. These findings challenge the predominant view that subsidies lead to long-term adoption of insurance products by providing evidence that subsidies can prompt rational market exit by accelerating the discovery of product design imperfections.
+</details>
+
+--- 
 * “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders,” November 2025. [Working Paper](/files/pdf/CMS_2025.pdf)   
 <span style="font-size: 0.95em; color:#708090"> Under Review </span>   
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>       
-* “Inefficiency in Agricultural Production: Do Information Frictions Matter?” June 2025. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
+<details style="margin-left: 1.5em;">
+<summary>Abstract</summary>
+Do people learn from experience how to cope with weather shocks? We use a unique four-wave panel household dataset from Uganda, merged with granular historical weather records, to understand the nexus between experience, weather shocks, and agricultural performance. Our identification strategy exploits cross-sectional variation in the climate experience of immigrant members of the households and the temporal variation in the realization of the weather shocks during the survey years. We show that although temperature shocks can be detrimental to agricultural performance, households with more experience perform relatively better. An additional 10 days of temperature shocks reduce the income of households with little experience by 8 percent, while the effects are negligible for those with higher-than-average experience. Our findings are robust to various robustness checks, including placebo tests on the timing of shocks and falsification tests. Suggestive evidence points towards the adoption of risk-reducing technologies as the driving factor behind the gains of the more experienced households. These findings highlight the relevance of initiatives that promote experiential learning.
+</details>
+
+--- 
+* “Inefficiency in Agricultural Production: Do Information Frictions Matter?” June 2025. [Working Paper](/files/pdf/Inefficiency in Agricultural Production.pdf), [X Thread](https://twitter.com/aranyacecon/status/1829081370695491992)      
 <span style="font-size: 0.9em; color:#808080"> with [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home) and [Rahul Rao](https://sites.google.com/view/raorahul/home)</span>        
+<details style="margin-left: 1.5em;">
+<summary>Abstract</summary>
+In settings with variable local geographic conditions, the impact of interventions can be confounded by heterogeneity in farmers’ ability to convert input into output. This paper introduces a novel plot-level measure of agricultural inefficiency that accounts for both input use and geographic endowments, enabling a more accurate assessment of intervention impacts compared to the conventional choice of actual yield as the outcome variable. We use this measure to evaluate a mobile phone-based agricultural extension program in rural Bangladesh. We observe that, in treated villages,  after intervention, there is a 50 percent reduction in plot-level inefficiency, driven by plots that used rainfed water for cultivation. We found these effects to be driven by increased input usage by farmers doing rainfed farming. In addition, we document that the intervention benefits geographically remote farmers more, and find significant cross-community spillovers through geographic ties.
+</details>
+
+--- 
 
 <!--* <span style="font-size: 0.95em; color:#708090"> Under Review </span> -->  
 
