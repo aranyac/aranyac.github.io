@@ -109,3 +109,12 @@ a:hover,
   color: #000 !important;
   border-bottom: 1px solid #000 !important;
 }
+/* Research page fix */
+.layout--archive p,
+.layout--archive li,
+.layout--archive span,
+.layout--archive details,
+.layout--archive summary {
+  font-family: "Georgia", serif !important;
+  color: #222 !important;
+}
