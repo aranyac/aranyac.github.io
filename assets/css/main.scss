@@ -84,3 +84,28 @@ a:hover,
   box-shadow: none;
   background: #fff;
 }
+
+/* Fix for archive layout without wide class */
+.layout--archive .page__content,
+.layout--archive p,
+.layout--archive li,
+.layout--archive ul {
+  font-family: "Georgia", serif !important;
+  color: #222 !important;
+  line-height: 1.8 !important;
+}
+
+.layout--archive .page__content a,
+.layout--archive li a,
+.layout--archive p a {
+  color: #444 !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid #ccc !important;
+}
+
+.layout--archive .page__content a:hover,
+.layout--archive li a:hover,
+.layout--archive p a:hover {
+  color: #000 !important;
+  border-bottom: 1px solid #000 !important;
+}
