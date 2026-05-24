@@ -10,6 +10,7 @@
  *
 */
 
+@import "skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -40,29 +41,40 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import "skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
 /* Cleaner typography */
-body {
+body,
+.archive,
+.page {
   font-family: "Georgia", serif;
   color: #222;
 }
 
 /* More breathing room */
-.page__content {
+.page__content,
+.archive__item,
+.list__item {
   font-size: 0.95em;
   line-height: 1.8;
 }
 
-/* Softer links */
-a {
-  color: #444;
+/* Softer links — covers all layout types */
+a,
+.page__content a,
+.archive a,
+.archive__item-title a,
+.list__item a,
+.nav__list a,
+.greedy-nav a {
+  color: #444 !important;
   text-decoration: none;
   border-bottom: 1px solid #ccc;
 }
 
-a:hover {
-  color: #000;
+a:hover,
+.page__content a:hover,
+.archive a:hover {
+  color: #000 !important;
   border-bottom: 1px solid #000;
 }
 
