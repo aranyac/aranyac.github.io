@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: "Home"
 author_profile: true
+classes: wide
 redirect_from: 
   - /home/
   - /home.html
