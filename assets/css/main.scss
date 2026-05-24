@@ -118,3 +118,33 @@ a:hover,
   font-family: "Georgia", serif !important;
   color: #222 !important;
 }
+
+/* Research page fix */
+.layout--archive p,
+.layout--archive li,
+.layout--archive span,
+.layout--archive details,
+.layout--archive summary {
+  font-family: "Georgia", serif !important;
+  color: #222 !important;
+}
+
+/* Link color fix for research and posts pages */
+.layout--archive a,
+.layout--archive span a,
+.layout--archive li a,
+.layout--archive p a,
+.layout--archive details a,
+.layout--archive summary a {
+  color: #444 !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid #ccc !important;
+}
+
+.layout--archive a:hover,
+.layout--archive span a:hover,
+.layout--archive li a:hover,
+.layout--archive p a:hover {
+  color: #000 !important;
+  border-bottom: 1px solid #000 !important;
+}
