@@ -41,3 +41,34 @@
 @import "print";
 
 @import "skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+/* Cleaner typography */
+body {
+  font-family: "Georgia", serif;
+  color: #222;
+}
+
+/* More breathing room */
+.page__content {
+  font-size: 0.95em;
+  line-height: 1.8;
+}
+
+/* Softer links */
+a {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+a:hover {
+  color: #000;
+  border-bottom: 1px solid #000;
+}
+
+/* Cleaner masthead/nav */
+.masthead {
+  border-bottom: 1px solid #eee;
+  box-shadow: none;
+  background: #fff;
+}
