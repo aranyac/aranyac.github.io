@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /teaching/
+classes: wide
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQNNHHYQ5D"></script>
