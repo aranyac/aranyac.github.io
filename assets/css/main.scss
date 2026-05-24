@@ -46,8 +46,8 @@
 body,
 .archive,
 .page {
-  font-family: "Georgia", serif;
-  color: #222;
+  font-family: "Georgia", serif !important;
+  color: #222 !important;
 }
 
 /* More breathing room */
