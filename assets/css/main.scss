@@ -148,3 +148,22 @@ a:hover,
   color: #000 !important;
   border-bottom: 1px solid #000 !important;
 }
+/* Teaching page — wide archive fix */
+.layout--archive.wide,
+.layout--archive.wide p,
+.layout--archive.wide li,
+.layout--archive.wide h1,
+.layout--archive.wide h2,
+.layout--archive.wide h3,
+.layout--archive.wide strong {
+  font-family: "Georgia", serif !important;
+  font-weight: normal;
+  color: #222 !important;
+}
+
+.layout--archive.wide h1,
+.layout--archive.wide h2,
+.layout--archive.wide h3,
+.layout--archive.wide strong {
+  font-weight: bold;
+}
