@@ -39,7 +39,6 @@ This paper studies how experience shapes learning and demand for index insurance
 
 --- 
 * “Lessons from the Past: How Experience Reduces the Impact of Weather Shocks on Ugandan Smallholders,” November 2025. [Working Paper](/files/pdf/CMS_2025.pdf)   
-<span style="font-size: 0.95em; color:#708090"> Under Review </span>   
 <span style="font-size: 0.9em; color:#808080"> with [Giuseppe Maggio](https://www.gmaggio.com/home) and [Fabio G. Santeramo](http://www.fabiosanteramo.net/)</span>       
 <details style="margin-left: 1.5em;">
 <summary>Abstract</summary>
