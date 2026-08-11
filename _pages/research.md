@@ -23,7 +23,7 @@ Can we use social ties to improve information diffusion when agents differ in po
 
 ---   
 * “The Role of Active Discussion in Coordinating about Uncertain Technologies,” February 2026. [Working Paper](/files/pdf/CELW2026_revised.pdf)   
-<span style="font-size: 0.95em; color:#708090"> Under Review </span>        
+<!-- <span style="font-size: 0.95em; color:#708090"> Under Review </span>         -->
 <span style="font-size: 0.9em; color:#808080"> with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)</span>  
 <details style="margin-left: 1.5em;">
 <summary>Abstract</summary>
