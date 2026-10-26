@@ -14,7 +14,7 @@ classes: wide
 </script>
 # Working Papers
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” May 2026. [Working Paper](https://dx.doi.org/10.2139/ssrn.4792846), [X Thread](https://twitter.com/aranyacecon/status/1595069831648317440)    
-<span style="font-size: 0.95em; color:#708090"> Revised and Resubmitted (2nd round) to the *Journal of Development Economics* </span>   
+<span style="font-size: 0.95em; color:#708090"> Revise and Resubmit (3rd round), *Journal of Development Economics* </span>   
   * <span style="font-size: 0.9em; color:#808080">Winner of the **Young Scholars' Best Paper Award** at the [International Conference](https://www.jnu.ac.in/node/159896311) hosted by the Centre for International Trade and Development, Jawaharlal Nehru University.</span>  
 <details style="margin-left: 1.5em;">
 <summary>Abstract</summary>
